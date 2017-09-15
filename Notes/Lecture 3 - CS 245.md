@@ -1,5 +1,6 @@
 ## CS 245 - Lecture 3
 
+
 ---
 
 ### Parse Trees
