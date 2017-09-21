@@ -133,11 +133,11 @@ Let $ R(\phi)$ be the property: $\phi$ has an equal number of '(' and ')' symbol
 
 *Notation:* For any formula $ \phi $, let $op(\phi)$ be the # of '(' and let $ cl(\phi)$ be the # of ')' in $ \phi $.
 
-Then, we can rewrite $R(\phi]) \rightarrow op(\phi) = cl(\phi)$
+Then, we can rewrite $R(\phi) \rightarrow op(\phi) = cl(\phi)$
 
 <u>Base Case:</u> *($\phi$ is $p$, for some propositional variable $p$)* 
 
-Here, $op(\phi) = cl(\phi) \implies R(\phi)$ holds. $\checkmark$ 
+Here, $op(\phi) = cl(\phi) \implies R(\phi)​$ holds. $\checkmark​$ 
 
 <u>induction Step:</u> *2 sub-cases*:
 
